@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ethical Hacking and Android App Development
 - 🌱 I’m currently doing my BSc (Hons) Ethical Hacking and Network Security at NIBM
 - 💞️ I’m looking to collaborate on Android App Development
-- 🕸 Visit my webiste - https://mithilakavsika.wordpress.com/
+- 🕸 Visit my webiste - https://mithilakavsika.engineer
 - 📫 How to reach me on Facebook - https://www.facebook.com/Mithila.Kavsika/
 
 <!---
